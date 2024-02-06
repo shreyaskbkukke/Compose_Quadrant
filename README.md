@@ -25,6 +25,8 @@ To use this project code:
 
 #### Preview:
 The project includes a preview function `GreetingPreview` that showcases how the main UI layout appears.
+![c0c70117bbd3b5b5_856](https://github.com/shreyaskbkukke/Compose_Quadrant/assets/96857515/ca483ab7-3c79-4938-bf13-15e1b86ffbe2)
+
 
 #### Author:
 This project code is authored by ShreyasKB ([Shreyas KB](https://github.com/shreyaskbkukke/)).
